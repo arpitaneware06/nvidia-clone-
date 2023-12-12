@@ -1,0 +1,46 @@
+li{
+    display:inline-block;
+    text-align: center;
+    padding: 14px 16px;
+   
+    
+}
+li:hover{
+    text-decoration-line: underline;
+}
+.nav{
+    background-color: white;
+    
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+div h1{
+color:green;
+
+text-align: center;
+margin-top: 0px;
+}
+.cards-container{
+display: flex;
+flex-wrap: wrap;
+
+}
+.cards-containers{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    
+
+    }
+    .card{
+        width: 150px;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin-left: 1.5rem;
+    margin-top: 1rem;
+    }
+    .ourCard{
+        background-color: whitesmoke;
+    }
+   
